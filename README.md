@@ -16,3 +16,5 @@
 </div>
 
 ##
+
+  ![Snake animation](https://github.com/hsato03/hsato03/blob/output/github-contribution-grid-snake.svg)
