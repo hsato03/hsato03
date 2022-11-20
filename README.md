@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Me chamo Henrique Sato e aqui estão alguns projetos que realizei durante minha trajetória.
 
 <div align="center">
   <a href="https://github.com/hsato03">
