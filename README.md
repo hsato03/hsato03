@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=8250DF&width=1200&lines=Ol%C3%A1!+Me+chamo+Henrique+Sato%2C+;aqui+est%C3%A3o+alguns+projetos+que+realizei+durante+minha+trajet%C3%B3ria.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8250DF&width=1200&lines=Ol%C3%A1!+Me+chamo+Henrique+Sato%2C+;aqui+est%C3%A3o+alguns+projetos+que+realizei+durante+minha+trajet%C3%B3ria.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/hsato03">
